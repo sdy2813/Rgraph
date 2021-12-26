@@ -4,3 +4,4 @@
 2. [R包circlize绘制基因组重测序变异圈图示例](https://mp.weixin.qq.com/s/KY9IZ91YYLNNXasJh2E2Ug)
 3. [circlize 之 Circular layout](http://www.weinformatics.cn/23559d5e55/)
 4. [R语言circlize包说明文档（版本 0.4.11）](http://www.idata8.com/rpackage/circlize/00Index.html)
+5. [Circular Visualization in R](https://jokergoo.github.io/circlize_book/book/)

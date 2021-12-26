@@ -1,4 +1,4 @@
-setwd("/data/home/xum/test/mp/circos/mp/")
+setwd("~/test/mp/circos/mp/")
 library(stringr)	#方便处理字符串
 library(circlize)	#绘制圈图
 library(ComplexHeatmap)	#绘制图例
@@ -9,7 +9,6 @@ sample_name <- 'Mycoplasma pneumoniae'	#测序样本名称
 ref_name <- 'Mycoplasma pneumoniae M129'	#参考基因组名称
 
 genome_gff <- 'NC_000912.gff3'	#参考基因组 gff 注释文件
-genome_gff_1 <- 'Bacillus_subtilis.str168.gff'
 snp_vcf <- 'S6_snp.vcf'	#SNP 检测结果 vcf 文件
 indel_vcf <- 'S6_indel.vcf'	#InDel 检测结果 vcf 文件
 depth_base_stat <- 'S6.depth_gc.txt'	#测序深度、碱基含量统计结果文件

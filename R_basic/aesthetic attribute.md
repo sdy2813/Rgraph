@@ -30,8 +30,7 @@
 + geom_count()
 + geom_text()
 + geom_sf()
-Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>Source: <a href="https://ggplot2-book.org/individual-geoms.html">ggplot2 book</a>
-图 22.1: Source: ggplot2 book
+
 
 4. stats: 统计变换
 4. scales: 标度

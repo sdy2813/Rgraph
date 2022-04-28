@@ -108,7 +108,11 @@ qplot(price, data = diamonds, color=cut, geom = "density", main = "density")
 
 
 
-
+---
+参考资料：
+1. [ggplot2作图最全教程（上）](https://zhuanlan.zhihu.com/p/370223674)
+2. [ggplot2作图最全教程（中）](https://zhuanlan.zhihu.com/p/374283162)
+3. [ggplot2作图最全教程（下）](https://zhuanlan.zhihu.com/p/460976888)
 
 
 
